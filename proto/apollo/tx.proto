@@ -1,0 +1,13 @@
+syntax = "proto3";
+package zarazan.apollo.apollo;
+
+// this line is used by starport scaffolding # proto/tx/import
+
+option go_package = "github.com/zarazan/apollo/x/apollo/types";
+
+// Msg defines the Msg service.
+service Msg {
+    // this line is used by starport scaffolding # proto/tx/rpc
+}
+
+// this line is used by starport scaffolding # proto/tx/message
